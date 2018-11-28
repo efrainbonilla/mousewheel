@@ -1,0 +1,5 @@
+{
+    "name": "senapi-drupal/mousewheel",
+    "description": "forked from jquery/jquery-mousewheel github.com to be used as drupal-library",
+    "type": "drupal-library"
+}
